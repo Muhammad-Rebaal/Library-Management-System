@@ -20,14 +20,14 @@ This is a simple Library Management System implemented in Python. It allows user
 
 ## File Structure
 
-- `library.py`: Contains the Python code for the Library Management System.
+- `index.py`: Contains the Python code for the Library Management System.
 - `library.txt`: File to store book data.
 - `user.txt`: File to store user data.
 
 ## Usage
 
 1. Clone the repository.
-2. Run `python library.py`.
+2. Run `python index.py`.
 3. Follow the console prompts to use the Library Management System.
 
 ## Author
