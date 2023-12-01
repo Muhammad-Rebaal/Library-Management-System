@@ -32,5 +32,5 @@ This is a simple Library Management System implemented in Python. It allows user
 
 ## Author
 
-[Muhammad-Rebaal]
+Muhammad-Rebaal
 
